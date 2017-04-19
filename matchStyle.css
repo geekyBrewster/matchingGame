@@ -1,0 +1,25 @@
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  border: 3px solid blue;
+  border-radius: 15px;
+}
+
+.cardBack {
+  background-color: purple;
+  border: 3px solid blue;
+  border-radius: 15px;
+}
+
+.cardHidden {
+  background-color: none;
+  border: none;
+}
+
+img {
+  border: 3px solid blue;
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+}
